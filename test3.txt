@@ -1,0 +1,5 @@
+s1 -> Create file
+s2 -> git status
+s3 -> git add filename
+s4 -> git commit -m "MESSAGE"
+s5 -> git push origin main
